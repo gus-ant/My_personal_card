@@ -38,11 +38,6 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 Um site pessoal desenvolvido com **Flask**, **HTML5**, **CSS3 (TailwindCSS)** e **JavaScript**, hospedado em um servidor Flask.
 
----
-
-## 📸 **Demonstração**
-
-🔗 [**Acesse o Projeto Aqui**](https://link-do-projeto.com) *(caso esteja hospedado)*
 
 ---
 
